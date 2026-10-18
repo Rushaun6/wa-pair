@@ -1,0 +1,8 @@
+{
+  "name": "econobot-pair",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "@whiskeysockets/baileys": "6.7.18", "pino": "^9.5.0" }
+}
